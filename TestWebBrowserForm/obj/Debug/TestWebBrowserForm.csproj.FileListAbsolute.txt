@@ -1,0 +1,9 @@
+C:\Users\samo\source\repos\TestWebBrowserForm\TestWebBrowserForm\obj\Debug\TestWebBrowserForm.Form1.resources
+C:\Users\samo\source\repos\TestWebBrowserForm\TestWebBrowserForm\obj\Debug\TestWebBrowserForm.Properties.Resources.resources
+C:\Users\samo\source\repos\TestWebBrowserForm\TestWebBrowserForm\obj\Debug\TestWebBrowserForm.csproj.GenerateResource.Cache
+C:\Users\samo\source\repos\TestWebBrowserForm\TestWebBrowserForm\obj\Debug\TestWebBrowserForm.csproj.CoreCompileInputs.cache
+C:\Users\samo\source\repos\TestWebBrowserForm\TestWebBrowserForm\bin\Debug\Majidov Browser.exe.config
+C:\Users\samo\source\repos\TestWebBrowserForm\TestWebBrowserForm\bin\Debug\Majidov Browser.exe
+C:\Users\samo\source\repos\TestWebBrowserForm\TestWebBrowserForm\bin\Debug\Majidov Browser.pdb
+C:\Users\samo\source\repos\TestWebBrowserForm\TestWebBrowserForm\obj\Debug\Majidov Browser.exe
+C:\Users\samo\source\repos\TestWebBrowserForm\TestWebBrowserForm\obj\Debug\Majidov Browser.pdb
